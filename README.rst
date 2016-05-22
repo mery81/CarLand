@@ -55,6 +55,29 @@ There are following functionalities in the project:
 7. Report generation in excel format for administration. It will contain
    the summary of available vehicles.
 
+This project is for sumulating software used by car delear for selling cars both old and new.
+
+**Users of the software:**\
+
+1. Admin - Admin is the administrator of software, he can add new salesmen, add and delete invetories.Functionalies can be performed by Admin are below:
+   1) Add SalesMen
+   2) Add Inventory
+   3) Delete Inventory
+   4) Display avaiable Inventory
+   5) Display sold Inventory
+   6) Update password
+   7) Create Report
+   8) Logout
+
+By default password for Admin is : admin
+
+2. Salesmen - Sales men can sell cars and can also cancel the sold car. He can view the avaiable cars and sold cars.Functionalies can be performed by Admin are below:
+
+   1) Sell Car
+   2) Cancel Car sold
+   3) Display avaiable Inventory
+   4) Display sold Inventory
+   5) Logout
 **Actual Alternatives:**
 
 Using paper sheets for inventory management, with data entry into Excel.
